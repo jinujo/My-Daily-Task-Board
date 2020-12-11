@@ -14,7 +14,7 @@ import { BehaviorSubject } from 'rxjs';
 })
 export class AppComponent {
 
-
+//implemented firebase
 
   todo = getObservable(this.store.collection('todo'));
   inProgress = getObservable(this.store.collection('inProgress'));
