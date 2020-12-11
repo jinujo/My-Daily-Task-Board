@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "mydailytask-c5fb0": {
+      "hosting": {
+        "mytaskboard": [
+          "mydailytask-c5fb0"
+        ]
+      }
+    }
+  }
+}
